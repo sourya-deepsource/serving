@@ -7,4 +7,4 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_paths = ["github.com/chsatyap/serving"]
+  import_paths = ["knative.dev/serving"]
